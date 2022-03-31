@@ -1,5 +1,6 @@
 {
-    "Registro" [
+    
+    "Registro": [
         {
             "id": 1,
             "nombre": "Andres",
@@ -41,7 +42,7 @@
             "clave": "123456"
         }
     ],
-    "Usuarios" [
+    "Usuarios" : [
         {
           "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622238/iconos/2_aywkbg.png",
           "name": "Carlos",
@@ -50,7 +51,7 @@
           "id": 2
         }
       ], 
-      "Estadistica" [
+      "Estadistica" :[
         {
             "totalResponse": 20,
             "successResponses": 15,
